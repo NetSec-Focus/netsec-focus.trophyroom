@@ -1,5 +1,5 @@
-|  Curated by: TJnull at Netsec Focus |  |  |
-| :---: | --- | --- |
+|  [Curated by NetSec Focus - netsecfocus.com](https://mm.netsecfocus.com/join/ "Curated by TJNull at netsecfocus.com") |  |  |
+| ---: | --- | --- |
 |  **Linux Boxes:** | **Windows Boxes:** | **More challenging than OSCP, but good practice:** |
 |  Lame | legacy | Jeeves [Windows] |
 |  brainfuck | Blue | Bart   [Windows] |
