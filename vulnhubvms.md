@@ -1,5 +1,6 @@
-[Curated by NetSec Focus - netsecfocus.com](https://mm.netsecfocus.com/join/ "Curated by NetSec Focus - netsecfocus.com") |
-Join us on the #"VulnHub & CTF" channel on Mattermost and find people to complete these with! |
+[Curated by NetSec Focus - netsecfocus.com](https://mm.netsecfocus.com/join/ "Curated by NetSec Focus - netsecfocus.com")
+Join us on the #"VulnHub & CTF" channel on Mattermost and find people to complete these with!
+
 |  **Similar to OSCP** |
 | :--- |
 |  **Kioptrix: Level 1 (#1): https://www.vulnhub.com/entry/kioptrix-level-1-1,22/** |
