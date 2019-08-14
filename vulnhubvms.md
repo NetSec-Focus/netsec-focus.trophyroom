@@ -1,8 +1,8 @@
-|  **VMs Highlighted in pink are considered to be similar to OSCP** |
-| :---: |
-|  [Curated by NetSec Focus - netsecfocus.com](https://mm.netsecfocus.com/join/ "Curated by NetSec Focus - netsecfocus.com") |
-|  Join us on the #"VulnHub & CTF" channel on Mattermost and find people to complete these with! |
-| <font color='pink'> **Kioptrix: Level 1 (#1): https://www.vulnhub.com/entry/kioptrix-level-1-1,22/** |
+[Curated by NetSec Focus - netsecfocus.com](https://mm.netsecfocus.com/join/ "Curated by NetSec Focus - netsecfocus.com") |
+Join us on the #"VulnHub & CTF" channel on Mattermost and find people to complete these with! |
+|  **Similar to OSCP** |
+| :--- |
+|  **Kioptrix: Level 1 (#1): https://www.vulnhub.com/entry/kioptrix-level-1-1,22/** |
 |  **Kioptrix: Level 1.1 (#2): https://www.vulnhub.com/entry/kioptrix-level-11-2,23/** |
 |  **Kioptrix: Level 1.2 (#3): https://www.vulnhub.com/entry/kioptrix-level-12-3,24/** |
 |  **Kioptrix: Level 1.3 (#4): https://www.vulnhub.com/entry/kioptrix-level-13-4,25** |
@@ -31,7 +31,10 @@
 |  **Web Developer 1: https://www.vulnhub.com/entry/web-developer-1,288/** |
 |  **SolidState: https://www.vulnhub.com/entry/solidstate-1,261/** |
 |  **IMF: https://www.vulnhub.com/entry/imf-1,162/** |
-|</font>  **Tommy Boy: https://www.vulnhub.com/entry/tommy-boy-1,157/** |
+
+|  **Other fun boxes** |
+| :--- |
+|  **Tommy Boy: https://www.vulnhub.com/entry/tommy-boy-1,157/** |
 |  **Billy Madison: https://www.vulnhub.com/entry/billy-madison-11,161/** |
 |  **Tr0ll1: https://www.vulnhub.com/entry/tr0ll-1,100/** |
 |  **Tr0ll2: https://www.vulnhub.com/entry/tr0ll-2,107/** |
